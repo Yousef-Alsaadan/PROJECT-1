@@ -56,3 +56,35 @@ a:hover{
 }
 
 /*footer*/
+.footer-left-image{
+    position: relative;
+    top: 75px; 
+}
+
+
+.Footer-list a{
+    position: relative;
+    color: #ffd200;
+    top: 90px;   
+    left: 50;
+
+}
+
+.Footer-list b{
+    position: relative;
+    color: white;
+    top: 90px;  
+    left: 50;
+}
+.footer-right-image{
+    position: relative;
+    left: 730px;
+    top: -15px; 
+} 
+
+.zoom_creative_img{
+    position: relative;
+    left: 798px;
+    top: 50x;
+
+}
