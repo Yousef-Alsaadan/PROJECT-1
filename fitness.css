@@ -1,0 +1,61 @@
+/*paragraf*/
+.paragraf{
+    margin-top: 15px;
+    background: rgba(26, 26, 26, 0.5);
+    padding: 1em;
+}
+.paragraf h1{
+    text-align: center;
+    color: #ffd200;
+    margin-bottom: 10px;
+}
+
+/*main content*/
+.content{
+    margin-top: 15px;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 20px;
+}
+.content h3, .sub_content h3{
+    color: #ffd200;
+}
+.paragraf p, .content p, .sub_content p{
+    color: white;
+}
+.content_items{
+    text-align: center;
+}
+.content_items h3, p{
+    padding-top: 15px;
+}
+.content_text{
+    margin-top: 15px;
+    background: rgba(26, 26, 26, 0.5);
+    padding: 1em;
+}
+
+/*sub content*/
+.centered{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background: #eabc32;
+    border: 3px solid #646565;
+    padding: .25em 4em;
+}
+.sub_content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    border: 3px solid #646565;
+}
