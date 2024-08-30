@@ -1,0 +1,58 @@
+/*basic*/
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+body{
+    background: url('https://bodymastersksa.com/images/bg-location.jpg');
+    background-size: cover;
+}
+
+/*main*/
+.container{
+    max-width: 900px;
+    margin: 10px auto;
+}
+p{
+    color: #ffd200;
+}
+a:hover{
+    color: white;
+}
+
+/*navbar*/
+.navbar{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.main_bar a{
+    color: #ffd200;
+}
+.main_bar a:hover{
+    color: white;
+}
+.main_bar_r{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.lang{
+    float: right;
+}
+.sub_bar{
+    background: url('https://bodymastersksa.com/images/bg_menu_new1.png');
+    text-transform: uppercase;
+    padding: 5px;
+}
+.main_bar, .sub_bar ul, .social{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+/*footer*/
