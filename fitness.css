@@ -21,6 +21,7 @@
     color: #ffd200;
 }
 .paragraf p, .content p, .sub_content p{
+    font-size: 12px;
     color: white;
 }
 .content_items{
