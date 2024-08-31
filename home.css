@@ -58,6 +58,104 @@ a:hover{
 }
 
 
+
+.first_pic img{
+   width: 100%;
+   padding-top: 18px;
+}
+
+.info_website{
+    font-family: uni sans w01 bold italic;
+    font-size: 18px;
+    color: #ffd200;
+    padding-top: 18px;
+}
+
+.First_pargraph pre{
+    color: white;
+ font: inherit;
+  font-size: 13px;
+  width: 100%; 
+  padding-top: 10px;
+  
+
+}
+.Second_pargraph pre{
+    color: white;
+    font: inherit;
+     font-size: 13px;
+     width: 100%; 
+     padding-top: 22px;
+
+}
+.Third_pargraph pre{
+    position: relative;
+    left: 55%;
+    bottom: 180px;
+    color: white;
+    font: inherit;
+     font-size: 13px;
+     width: 100%; 
+     padding-top: 22px;
+     
+    
+
+}
+.line_between {
+    height: 1px;
+    width: 1000px;
+    background-color: #ffd200;
+}
+
+.logo_fecbook img{
+    padding-bottom: 20px;
+    width: 96;
+    height: 20;
+
+}
+
+.border_fecbook{
+     width: 100%;
+    max-width: 466px; 
+    height: 540px;
+    border: solid 1px #ffd200;
+    background-color: rgba(0, 0, 0, .4); 
+    
+}
+
+.logo_twitter img{
+    position: relative;
+    left: 55%;
+    bottom: 580;
+    height: 21;
+}
+
+ .border_twitter {
+    position: relative;
+    left: 490px;
+    bottom: px;
+    width: 100%;
+    max-width: 470px; 
+    height: 540px;
+     overflow: hidden;
+    border: solid 1px #ffd200;
+    background-color: rgba(0, 0, 0, .4);
+
+}  
+
+ .border_twitter img{
+    height: 530px;
+
+    
+}
+
+.All_footeer{
+    
+
+}
+
+
+
 .footer-left-image{
     position: relative;
     top: 75px; 
@@ -90,4 +188,8 @@ a:hover{
     top: 50x;
 
 }
+
+
+
+
 
