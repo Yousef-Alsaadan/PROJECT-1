@@ -133,11 +133,9 @@ a:hover{
  .border_twitter {
     position: relative;
     left: 490px;
-    bottom: px;
     width: 100%;
     max-width: 470px; 
     height: 540px;
-     overflow: hidden;
     border: solid 1px #ffd200;
     background-color: rgba(0, 0, 0, .4);
 
